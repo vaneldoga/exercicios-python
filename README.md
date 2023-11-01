@@ -1,3 +1,4 @@
-# exercicios de fixação - python
-
+<div align='center'>
+  # exercicios de fixação - python
+</div>
 Este repositório é uma compilação de resoluções de exercícios abordados nos vídeos do site "Curso em Vídeo" pelo professor Gustavo Guanabara e das propostas contidas no PDF "300 Ideias Para Programar Computadores" pelo professor Virgílio Vasconcelos Vilela. 
