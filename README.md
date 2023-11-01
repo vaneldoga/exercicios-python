@@ -17,8 +17,7 @@ Este repositório é uma compilação de resoluções de exercícios abordados n
 
    <div align="left">
         <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">
-        <figure>
-        <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png">
+        <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png" alt="Logo do Python com uma caixa de texto abaixo na qual está escrito 'Mundo 1', fazendo referência à primeira parte do curso de Python do site 'Curso em Vídeo'">
         </a>
    </div>
 
