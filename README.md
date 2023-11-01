@@ -17,13 +17,13 @@ Este repositório é uma compilação de resoluções de exercícios abordados n
 
    <div align="left">
         <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">
-        <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png">
+        <img width='250' align="left" src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png">
         </a>
    </div>
 
    <div align="rigth">
         <a href="">
-        <img src="https://cdn.slidesharecdn.com/ss_thumbnails/300ideiasparaprogramar-130812085042-phpapp02-thumbnail.jpg?w=3840&q=90">
+        <img  width='250' align="right" src="https://cdn.slidesharecdn.com/ss_thumbnails/300ideiasparaprogramar-130812085042-phpapp02-thumbnail.jpg?w=3840&q=90">
         </a>
    </div>
 </div>
