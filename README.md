@@ -24,7 +24,7 @@
    </div>
 
    <div style="max-width: 240px; text-align: center; margin: 1px; float: right; align: right">
-        <a href="">
+        <a href="https://github.com/vaneldoga/exercicios-python/blob/main/300%20exercicios/300%20ideias%20para%20programar.pdfs">
         <img width='250' src="https://cdn.slidesharecdn.com/ss_thumbnails/300ideiasparaprogramar-130812085042-phpapp02-thumbnail.jpg?w=3840&q=90">
         <p>Pdf com 300 ideias para programar</p>
         </a>
