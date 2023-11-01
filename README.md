@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 
 <head> 
     <meta charset="UTF-8"> 
@@ -10,26 +11,25 @@
   <h1>Exercicios de fixação - python 🐍</h1>
 </div>
 
+<p>Este repositório é uma compilação de resoluções de exercícios abordados nos vídeos do site <b>"Curso em Vídeo"</b> pelo professor <b>Gustavo Guanabara</b> e das propostas contidas no PDF <b>"300 Ideias Para Programar Computadores"</b> pelo professor <b>Virgílio Vasconcelos Vilela</b>.</p>
 
-Este repositório é uma compilação de resoluções de exercícios abordados nos vídeos do site "Curso em Vídeo" pelo professor Gustavo Guanabara e das propostas contidas no PDF "300 Ideias Para Programar Computadores" pelo professor Virgílio Vasconcelos Vilela. 
-
+<h3 align="center">As questões cujas resoluções estão disponíveis neste repositório podem ser encontradas aqui:</h3>
 <div align="center">
-
-   <div align="left">
+   <div style="max-width: 250px; text-align: center; margin: 10px; float: left;">
         <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/">
-        <img width='250' align="left" src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png">
+        <img width='250' src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png">
+        <p>Curso de python: Curso em vídeo</p>
         </a>
-        <br>
-        <p>Curso de python</p>
    </div>
 
-   <div align="rigth">
+   <div style="max-width: 250px; text-align: center; margin: 10px; float: right;">
         <a href="">
-        <img  width='250' align="right" src="https://cdn.slidesharecdn.com/ss_thumbnails/300ideiasparaprogramar-130812085042-phpapp02-thumbnail.jpg?w=3840&q=90">
+        <img width='250' src="https://cdn.slidesharecdn.com/ss_thumbnails/300ideiasparaprogramar-130812085042-phpapp02-thumbnail.jpg?w=3840&q=90">
+        <p>Pdf com 300 ideias para programar</p>
         </a>
-        <br>
-        <p>Livro com 300 ideias para progamar</p>
    </div>
+
+   <div style="clear: both;"></div>
 </div>
 </body>
 </html>
