@@ -3,15 +3,15 @@ Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primiti
 e todas as informações possíveis sobre ele.
 """
 
-variavel = input('Digite algo: ')
+var = input('Digite algo: ')
 
-print(f'O tipo primitivo desse valor é: {type(variavel)}')
+print(f'O tipo primitivo desse valor é: {type(var)}')
 print(f'''
-        Possui apenas espaços? {variavel.isspace()}
-        Contém apenas letras do alfabeto (string/texto)? {variavel.isalpha()} 
-        Contém apenas números? {variavel.isnumeric()}
-        Contém apenas letras e/ou números (alfanumérico)? {variavel.isalnum()}
-        Está apenas em maiúsculas? {variavel.isupper()}
-        Está apenas em minúsculas? {variavel.islower()}
-        Está em formato de título: {variavel.istitle()}
+        Possui apenas espaços? {var.isspace()}
+        Contém apenas letras do alfabeto (string/texto)? {var.isalpha()} 
+        Contém apenas números? {var.isnumeric()}
+        Contém apenas letras e/ou números (alfanumérico)? {var.isalnum()}
+        Está apenas em maiúsculas? {var.isupper()}
+        Está apenas em minúsculas? {var.islower()}
+        Está em formato de título: {var.istitle()}
     ''')
